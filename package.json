@@ -2,7 +2,7 @@
 	"name": "coding-motivator",
 	"displayName": "Coding Motivator",
 	"description": "Don't have the motivation to code? Have a periodic message sent to motivate you!",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "Yoganathan",
 	"engines": {
 		"vscode": "^1.54.0"
