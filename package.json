@@ -3,7 +3,7 @@
 	"displayName": "coding-motivator",
 	"description": "An extension to send motivational messages periodically",
 	"version": "0.0.1",
-	"publisher": "Yoganathan P",
+	"publisher": "Yoganathan",
 	"engines": {
 		"vscode": "^1.54.0"
 	},
@@ -29,13 +29,7 @@
 					"default": 600
 				}
 			}
-		},
-		"commands": [
-			{
-				"command": "coding-motivator.helloWorld",
-				"title": "Hello World"
-			}
-		]
+		}
 	},
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
