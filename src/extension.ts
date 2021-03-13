@@ -13,7 +13,7 @@ export function activate (context: vscode.ExtensionContext) {
 
 	setInterval(() => {
 		vscode.window.showInformationMessage(getRandomElement(motivationData.messages));
-	}, interval);
+	}, interval * 1000);
 }
 
 export function deactivate () { }
