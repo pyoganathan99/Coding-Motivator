@@ -1,7 +1,7 @@
 {
 	"name": "coding-motivator",
-	"displayName": "coding-motivator",
-	"description": "An extension to send motivational messages periodically",
+	"displayName": "Coding Motivator",
+	"description": "Don't have the motivation to code? Have a periodic message sent to motivate you!",
 	"version": "1.0.0",
 	"publisher": "Yoganathan",
 	"engines": {
