@@ -2,7 +2,7 @@
 	"name": "coding-motivator",
 	"displayName": "coding-motivator",
 	"description": "An extension to send motivational messages periodically",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"publisher": "Yoganathan",
 	"engines": {
 		"vscode": "^1.54.0"
