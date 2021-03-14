@@ -19,7 +19,7 @@ const motivationData = {
         `Don't give those bugs a chance 😎`,
         `Time is your most valuable resource, spend mindfully 😁`,
         `Test before your deploy 👀 Gotta look out for those sneaky bugs`,
-        `Gentle reminder to sit back and relax yourself 😌`
+        `Gentle reminder to sit back and relax yourself 😌`,
     ]
 };
 
