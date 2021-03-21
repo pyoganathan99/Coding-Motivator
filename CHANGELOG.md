@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.2] - 2020-03-21
+### Added
+- More messages
+### Changed
+- Extension description
+
 ## [1.0.1] - 2020-03-13
 ### Changed
 - Extension display name and description
