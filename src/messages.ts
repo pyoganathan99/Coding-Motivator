@@ -20,6 +20,14 @@ const motivationData = {
         `Time is your most valuable resource, spend mindfully 😁`,
         `Test before your deploy 👀 Gotta look out for those sneaky bugs`,
         `Gentle reminder to sit back and relax yourself 😌`,
+        `Coding is poetry for programmers 🤩 Uleash the poet in you`,
+        `['hip', 'hip'] - hip hip array!`,
+        `Commit more, and commit often!`,
+        `npm install motivation`,
+        `If you want to give up, recall why you started out in the first place`,
+        `“The best time to plant a tree was 20 years ago. The second best time is now.” – Chinese Proverb`,
+        `Go ahead and get things done, you can do it 🤩`,
+        `Those bugs just don't have a chance around you 😎`,
     ]
 };
 
