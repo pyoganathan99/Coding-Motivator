@@ -20,7 +20,7 @@ const motivationData = {
         `Time is your most valuable resource, spend mindfully 😁`,
         `Test before your deploy 👀 Gotta look out for those sneaky bugs`,
         `Gentle reminder to sit back and relax yourself 😌`,
-        `Coding is poetry for programmers 🤩 Uleash the poet in you`,
+        `Coding is poetry for programmers 🤩 Unleash the poet in you`,
         `['hip', 'hip'] - hip hip array!`,
         `Commit more, and commit often!`,
         `npm install motivation`,
